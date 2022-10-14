@@ -5,10 +5,11 @@
 🔹A self-developing young man who's into cyber security and computer engineering.🔹
 
 <br>
-<style> border-style:solid;
-  border-color: transparent; </style>
+
   
 <table class="center"> 
+  <style> border-style:solid;
+  border-color: transparent; </style>
   
 <tr>
   <td><a href="https://github.com/EfeVaroll">
