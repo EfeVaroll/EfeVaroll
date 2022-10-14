@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css" />
+
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 ## Efe Varol Bedelcigil 👋
@@ -7,7 +9,7 @@
 <br>
 
   
-<table class="center" style="style.css">
+<table class="center">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
