@@ -1,11 +1,11 @@
 <img align="center" alt="banner" src="111.png">
 <br>
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) </br>
+
 <img aling="right" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
      
-</br>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) </br>
+<br>
 
 <table class="links">
 <tr>
@@ -20,9 +20,7 @@
   </tr>
 </table>
 
-
-
-<br>
+</br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true">
 
@@ -30,4 +28,3 @@
 
 🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
 
-?style=plastic&logo=appveyor
