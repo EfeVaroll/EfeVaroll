@@ -2,7 +2,7 @@
 <br>
 
 <img aling="right" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
-     🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
+     
 </br>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) </br>
@@ -28,3 +28,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
 
+🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
