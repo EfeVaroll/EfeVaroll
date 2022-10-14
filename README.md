@@ -8,10 +8,13 @@
 
   
 <table class="center"> 
-  <style> border-style:solid;
-  border-color: transparent; </style>
+  
   
 <tr>
+  <style {
+  border-style:solid;
+  border-color: transparent; } </style>
+  
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  </a> 
