@@ -1,6 +1,4 @@
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
- 
-## Efe Varol Bedelcigil 👋
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) ## Efe Varol Bedelcigil 👋
 
 🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
 <br>
