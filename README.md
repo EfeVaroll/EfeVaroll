@@ -8,19 +8,14 @@
 <br>
 
 <table class="links">
-   <style>
-#links {border: none;}
-#links tr {border: none;}
-#links td {border: none;}
-</style>
 <tr class="links">
-  <td class="links"><a href="https://github.com/EfeVaroll">
+  <td class="links"><a class="links" href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
     
-<td class="links"><a href="https://www.linkedin.com/in/efevarolbedelcigil/">
+<td class="links"><a class="links" href="https://www.linkedin.com/in/efevarolbedelcigil/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
-  <td class="links"><a href="https://dev.to/efevaroll">
+  <td class="links"><a class="links" href="https://dev.to/efevaroll">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
   </tr>
 </table>
