@@ -2,7 +2,9 @@
  
 ## Efe Varol Bedelcigil 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+self+developing+young+man;who's+into+cyber+security+;Follow+for+my+future+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+self+developing+young+man)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=who's+into+cyber+security+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+for+my+future+projects!)](https://git.io/typing-svg)
 <br>
 
 <table class="links">
