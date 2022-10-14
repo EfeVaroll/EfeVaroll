@@ -5,7 +5,9 @@
 🔹A self-developing young man who's into cyber security and computer engineering.🔹
 
 <br>
-<table class="center">
+<table class="center" 
+  style="border-style:solid;
+  border-color: transparent;">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
