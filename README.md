@@ -1,6 +1,8 @@
 
-<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+
+
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
  
 ## Efe Varol Bedelcigil 👋
 
