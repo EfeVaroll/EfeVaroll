@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
+<img align="right" alt="avatar" width="200" src="avatar2.JPG">  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 ## Efe Varol Bedelcigil
 
@@ -15,9 +15,6 @@ A self-developing young man who's into cyber security and computer engineering.
 </a> 
   </tr>
 </table>
-<br></br>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 <br></br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=blue-green">
