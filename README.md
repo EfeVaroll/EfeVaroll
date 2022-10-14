@@ -1,7 +1,7 @@
 <img align="center" alt="banner" src="111.png">
 <br>
 
-<img aling="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
+<img aling="right" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
      🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
 </br>
 
