@@ -7,7 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+for+the+future+projects!)](https://git.io/typing-svg)
 
-
 <table class="links">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
