@@ -1,11 +1,9 @@
 <img align="center" alt="banner" src="111.png">
 
-
-<a align="center" href="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll"></a> </br>
-
-<a href="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!"></a>
-     
-<br>
+<div align="center">
+<a href="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll"></a> </br>
+<a href="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!"></a><br>
+</div>
 
 <table class="links">
 <tr>
