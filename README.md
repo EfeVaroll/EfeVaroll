@@ -21,4 +21,4 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=blue-green">
