@@ -3,7 +3,7 @@
 ## Efe Varol Bedelcigil 👋
 
 🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
-<br></br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+for+the+future+projects!)](https://git.io/typing-svg)
 
