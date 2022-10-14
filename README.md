@@ -1,10 +1,8 @@
-<img align="center" alt="banner" src="111.png">
 <div align="center">
- <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
-</div>
-<br>
-
-<table class="links" align="center">
+ <img align="center" alt="banner" src="111.png"> <br></br><br>
+ 
+ <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!;Thanks."><br></br>
+ <table class="links" align="center">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
@@ -16,6 +14,7 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
   </tr>
 </table>
+</div>
 
 </br>
 
