@@ -2,7 +2,7 @@
 
 ## Efe Varol Bedelcigil
 
--->
+A self-developing young man who's into cyber security and computer engineering.
 
 <table class="center">
 
