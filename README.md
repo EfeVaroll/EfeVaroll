@@ -1,4 +1,4 @@
-<img border="1px" align="right" alt="Avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
+<img style="border: 5px; border-color: #000000" align="right" alt="Avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
  
 ## Efe Varol Bedelcigil 👋
 
