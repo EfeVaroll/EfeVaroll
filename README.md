@@ -6,7 +6,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+for+the+future+projects!)](https://git.io/typing-svg)
-<br>
+
 
 <table class="links">
 <tr>
