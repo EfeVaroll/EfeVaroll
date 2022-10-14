@@ -1,7 +1,7 @@
 <div align="center">
  <img align="center" alt="banner" src="111.png"> <br></br><br>
  
- <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!;Thanks."><br></br>
+ <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!;Thanks.&center=true&vCenter=true&"><br></br>
  <table class="links" align="center">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
