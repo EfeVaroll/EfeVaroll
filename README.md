@@ -1,6 +1,6 @@
 <img align="center" alt="banner" src="111.png">
 
- <img align="center">src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
+ <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
 
 <br>
 
