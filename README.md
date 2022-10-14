@@ -1,7 +1,8 @@
 <img align="center" alt="banner" src="111.png">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!)](https://git.io/typing-svg)
+<img aling="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
+     🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
 </br>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) </br>
