@@ -1,9 +1,10 @@
 <img align="center" alt="banner" src="111.png">
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll"></br>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll">
 </div>
+
+<br>
 
 <table class="links">
 <tr>
