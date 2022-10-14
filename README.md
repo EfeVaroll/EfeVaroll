@@ -13,8 +13,8 @@
 <td><a href="https://www.linkedin.com/in/efevarolbedelcigil/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-  <td><a href="https://www.linkedin.com/in/efevarolbedelcigil/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <td><a href="https://dev.to/efevaroll">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a> 
   </tr>
 </table>
