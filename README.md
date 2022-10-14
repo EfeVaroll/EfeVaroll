@@ -1,7 +1,7 @@
 <div align="center">
  <img align="center" alt="banner" src="111.png"> <br></br><br>
  
- <img align="center" src="https://readme-typing-svg.demolab.com/?lines=A+self+developing+young+man;who's+into+cyber+security+and+computer+engineering.;Follow+me+for+more+projects!;Thanks+a+lot.&center=true&vCenter=true&"><br></br>
+ <img align="center" src="https://readme-typing-svg.demolab.com/?lines=A+self+developing+young+man;who's+into+cyber+security.;Follow+me+for+more+projects!.&center=true&vCenter=true&duration=8000&size=30&width=700"><br></br>
  <table class="links" align="center">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
