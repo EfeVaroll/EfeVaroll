@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <br></br>
 
 
-<h2> <p>My Github Stats <img src="chart.gif"></p></h2>
+<h2> <p>My Github Stats</p></h2>
 <br></br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true"><br></br>
