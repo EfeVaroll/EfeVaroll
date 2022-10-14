@@ -4,7 +4,7 @@
 
 A self-developing young man who's into cyber security and computer engineering.
 
-<br></br>
+<br>
 <table class="center">
 
 <tr>
@@ -17,6 +17,6 @@ A self-developing young man who's into cyber security and computer engineering.
   </tr>
 </table>
 
-<br></br>
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=blue-green">
