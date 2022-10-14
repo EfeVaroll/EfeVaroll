@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!)](https://git.io/typing-svg)
 </br>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) <br>
+
 <table class="links">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
@@ -17,7 +20,7 @@
   </tr>
 </table>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
+
 
 <br>
 
