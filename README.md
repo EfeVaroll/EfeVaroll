@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
+<img align="right" alt="avatar" width="200" src="1image.jpg"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 ## Efe Varol Bedelcigil 👋
 
