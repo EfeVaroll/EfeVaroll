@@ -21,6 +21,6 @@
 </table>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
