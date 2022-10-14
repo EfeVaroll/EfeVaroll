@@ -11,7 +11,7 @@
 <br>
 
  
-<table class="center">
+<table class="center" style="style.css">
   <style>
 <tr>
   <td><a href="https://github.com/EfeVaroll">
@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a> 
   </tr>
-    <style>
 </table>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark">
