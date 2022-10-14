@@ -1,7 +1,7 @@
 <img align="center" alt="banner" src="111.png">
-
+<div align="center">
  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
-
+</div>
 <br>
 
 <table class="links" align="center">
