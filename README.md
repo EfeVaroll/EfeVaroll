@@ -7,22 +7,19 @@
 ## Efe Varol Bedelcigil 👋
 
 🔹A self-developing young man who's into cyber security and computer engineering.🔹
-
+  
 <br>
-
- 
+  
 <table class="center" style="style.css">
-  <style>
 <tr>
   <td><a href="https://github.com/EfeVaroll">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- </a> 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+    
 <td><a href="https://www.linkedin.com/in/efevarolbedelcigil/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
   <td><a href="https://dev.to/efevaroll">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-</a> 
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
   </tr>
 </table>
 <br>
