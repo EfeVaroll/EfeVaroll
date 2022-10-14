@@ -1,11 +1,9 @@
-<html>
-  <head><link rel="stylesheet" type="text/css" href="style.css" media="screen"/></head>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
  
 ## Efe Varol Bedelcigil 👋
 
-<body>
 🔹A self-developing young man who's into cyber security and computer engineering.🔹
   
 <br>
@@ -24,4 +22,3 @@
 </table>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark">
-  </body></html>
