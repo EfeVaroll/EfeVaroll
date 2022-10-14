@@ -16,6 +16,9 @@ A self-developing young man who's into cyber security and computer engineering.
   </tr>
 </table>
 <br></br>
+
+
+
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=blue-green">
