@@ -1,7 +1,7 @@
 <img align="center" alt="banner" src="111.png">
 <br>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#) </br>
+<img aling="right" src="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll"> </br>
 
 <img aling="right" src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
      
