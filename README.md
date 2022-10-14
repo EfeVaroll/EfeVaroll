@@ -1,5 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
-
+<html>
+  <head><link rel="stylesheet" type="text/css" href="style.css" media="screen"/></head>
+<body>
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
 ## Efe Varol Bedelcigil 👋
@@ -9,7 +10,7 @@
 <br>
 
   
-<table class="center">
+<table class="center" st>
 <tr>
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -25,3 +26,4 @@
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark">
+  </body></html>
