@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="avatar2.JPG"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
 
-## Efe Varol Bedelcigil 🌀
+## 🔹 Efe Varol Bedelcigil 🔹
 
 A self-developing young man who's into cyber security and computer engineering.
 
