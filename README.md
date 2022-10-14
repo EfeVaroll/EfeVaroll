@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+
 
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
  
@@ -9,6 +9,7 @@
 <br>
   
 <table class="link" style="style.css">
+ <link rel="stylesheet" type="text/css" href="style.css">
 <tr>
   <td><a href="https://github.com/EfeVaroll">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
