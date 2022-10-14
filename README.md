@@ -3,9 +3,9 @@
 
 <img align="right" alt="avatar" width="200" src="5.png"> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll)](#)
  
-<body>
 ## Efe Varol Bedelcigil 👋
 
+<body>
 🔹A self-developing young man who's into cyber security and computer engineering.🔹
   
 <br>
