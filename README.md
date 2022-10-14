@@ -1,7 +1,8 @@
 <img align="center" alt="banner" src="111.png">
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!">
+
 </div>
 
 <br>
@@ -25,7 +26,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Follow+me+for+more+projects!"><br>
-
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EfeVaroll.EfeVaroll">
 🔹A self-developing young man who's into cyber security, computer engineering and technology🔹 
 
