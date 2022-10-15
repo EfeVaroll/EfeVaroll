@@ -7,11 +7,13 @@
 <img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13841571">
 <br></br>
 <a href="https://github.com/EfeVaroll">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   
+<img width="90" height="28" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   
 <a href="https://www.linkedin.com/in/efevarolbedelcigil/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<img width="100" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://dev.to/efevaroll">   
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <br></br>
+<img width="90" height="28" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/13841571/efe-varol">   
+<img width="120" height="25" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> <br></br>
 
 <h2> <p><img src="chart.gif" width="30" height="30">   My Github Stats   <img src="chart.gif" width="30" height="30"></p></h2>
 <br></br>
@@ -23,6 +25,17 @@
 
 <br></br><br></br><br></br>
 <h2><p><img src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <br></br>
 
 <h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
