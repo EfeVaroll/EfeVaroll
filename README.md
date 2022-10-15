@@ -1,6 +1,6 @@
 <div align="center">
 
- <img align="center" alt="banner" src="banner.gif" width="1200" height="315">
+ <img align="center" alt="banner" src="banner.gif" width="1200" height="350">
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Your+friendly+neighborhood+cyber+security+enthusiast.+Follow+me+for+more!&center=true&vCenter=true&duration=8500&size=40&color=4b8dda&width=2000&heigh=60"></h1>
  
