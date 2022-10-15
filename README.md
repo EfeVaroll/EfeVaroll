@@ -15,9 +15,10 @@
 
 <h2> <p>My Github Stats</p></h2>
 <br></br>
- 
+<div> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true"><br></br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
+</div>
 <br></br>
 
 <div align="center"><br></br>
