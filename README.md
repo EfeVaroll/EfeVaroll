@@ -24,7 +24,7 @@
 <br></br></div>
 
 <br></br><br></br><br></br>
-<h2><p><img src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+<h2><p><img align="center" src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
