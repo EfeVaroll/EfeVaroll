@@ -18,8 +18,15 @@
 <br></br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true"><br></br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark"><br></br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
 <br></br>
+
+<div align="center"><br></br>
+<h2><p>My Contribution Graph</p></h2>
+
+<img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
 </div>
+</div>
+
 
 
