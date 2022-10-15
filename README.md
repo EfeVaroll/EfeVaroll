@@ -4,7 +4,7 @@
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;It's+your+friendly+neighborhood+cyber+security+enthusiast.;Calm+down,+I'm+not+breaking+the+fourth+wall.+It's+automated.;Just,+just+scroll+down+for+more+information.;And+don't+forget+to+follow+me+if+you+liked+it.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
- <p>Hi again! I'm a prospective computer engineer and passionate learner. I love taking parts on actions and projects about cybersecurity. Trying to be up to date, always willing to help people in this realm. Let's turn up the volume and start! </p>
+ <p>Hi again! I'm a prospective computer engineer and passionate learner. I love taking parts on actions and projects about cyber security. Trying to be up to date, always willing to help people in this realm. Let's not prolong, turn up the volume and start! </p>
 
 <h2><img src="social.gif" width="40" height="35">Socials<img class="image" src="social.gif" width="40" height="35"></h2>
 
