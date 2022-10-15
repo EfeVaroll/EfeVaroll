@@ -13,7 +13,7 @@
 <a href="https://dev.to/efevaroll">   
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <br></br>
 
-<h2> <p>My Github Stats</p></h2>
+<h2> <p><img src="chart.gif" width="30" height="30">   My Github Stats   <img src="chart.gif" width="30" height="30"></p></h2>
 <br></br>
 <div> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true"><br></br>
@@ -25,7 +25,7 @@
 <h2> <p><img src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 <br></br>
 
-<h2><p><img src="chart.gif" width="30" height="30">   My Contribution Graph   <img src="chart.gif" width="30" height="30"></p></h2>
+<h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
 
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
 </div>
