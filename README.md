@@ -13,7 +13,6 @@
 <a href="https://dev.to/efevaroll">   
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> <br></br>
 
-
 <h2> <p>My Github Stats</p></h2>
 <br></br>
  
@@ -22,6 +21,8 @@
 <br></br>
 
 <div align="center"><br></br>
+<h2> <p>My Tech Stack <img src="stack.gif"></p></h2>
+<br></br>
 <h2><p>My Contribution Graph</p></h2>
 
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
