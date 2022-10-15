@@ -36,11 +36,12 @@
 
 <h2> <p><img src="chart.gif" width="40" height="40">   My Github Stats   <img src="chart.gif" width="40" height="40"></p></h2><br>
 
-<div class="stats">
+<div class="stats" align="center">
 <img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs&show_icons=true">
 <img class="stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=compact&langs_count=8">
 <br></br><br></br><br></br><br></br>
-<img class="stats" align="center" src="https://streak-stats.demolab.com?user=EfeVaroll&theme=github-dark-blue&fire=00CE6B">
+<div align="center">
+<img class="stats" align="center" src="https://streak-stats.demolab.com?user=EfeVaroll&theme=github-dark-blue&fire=00CE6B"></div>
 </div>
 
 <br></br>
