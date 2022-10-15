@@ -1,5 +1,5 @@
 <div align="center">
- <img align="center" alt="banner" src="banner.gif" width="1600" height="660">
+ <img align="center" alt="banner" src="banner.gif" width="1600" height="460">
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Your+friendly+cyber+security+enthusiast.+Follow+me+for+more+projects!&center=true&vCenter=true&duration=8500&size=40&color=4b8dda&width=2000&heigh=60"></h1>
  <p>Hi again! I'm a prospective computer engineer and passionate learner. I love taking parts on actions and projects about cybersecurity. Trying to be up to date, always willing to help people in this realm. Let's turn up the volume and start! </p>
 
