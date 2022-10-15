@@ -24,7 +24,7 @@
 <br></br></div>
 
 <br></br><br></br><br></br>
-<h2><p><img align="center" src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+<h2><p><img  src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -34,7 +34,7 @@
 
 <br></br>
 
-<h2><p><img align="center" src="gears.gif" width="30" height="40">   Still Learning   <img src="gears.gif" width="30" height="40"></p></h2>
+<h2><p><img src="gears.gif" width="30" height="40">   Still Learning   <img src="gears.gif" width="30" height="40"></p></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,7 +43,7 @@
 
 <br></br>
 
-<h2><p><img align="center" src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
+<h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
 </div>
 </div>
