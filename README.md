@@ -15,18 +15,17 @@
 
 <h2> <p><img src="chart.gif" width="30" height="30">   My Github Stats   <img src="chart.gif" width="30" height="30"></p></h2>
 <br></br>
-<div> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark"><br></br>
-</div>
-<p></p><br></br>
+<div class="stats">
+<img class="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs,issues&show_icons=true">
+<img class="stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark">
+<p></p>
+<br></br></div>
 
-<div align="center"><br></br>
-<h2> <p><img src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+<br></br><br></br><br></br>
+<h2><p><img src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 <br></br>
 
 <h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
-
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
 </div>
 </div>
