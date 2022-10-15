@@ -30,7 +30,7 @@
 <p></p><br></br>
 </div>
 
-<br></br><br></br><br></br>
+<br></br><br></br><br></br><br></br>
 <h2><p><img  src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
