@@ -5,9 +5,7 @@
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Your+friendly+neighborhood+cyber+security+enthusiast.+Follow+me+for+more!&center=true&vCenter=true&duration=8500&size=40&color=4b8dda&width=2000&heigh=60"></h1>
  
  <p>Hi again! I'm a prospective computer engineer and passionate learner. I love taking parts on actions and projects about cybersecurity. Trying to be up to date, always willing to help people in this realm. Let's turn up the volume and start! </p>
-
 <br>
-
 <h2><img src="social.gif" width="40" height="35">Socials<img class="image" src="social.gif" width="40" height="35"></h2>
 
  <a href="https://github.com/EfeVaroll">
