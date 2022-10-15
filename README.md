@@ -11,7 +11,7 @@
 <img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13841571">
 <br></br>
 
-<h2> <p><img src="social.gif" width="30" height="30">   Socials   <img src="social.gif" width="30" height="30"></p></h2>
+<h2><img src="social.gif" width="40" height="35">Socials<img class="image" src="social.gif" width="40" height="35"></h2>
 
  <a href="https://github.com/EfeVaroll">
   <img width="90" height="28" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   
@@ -30,32 +30,30 @@
 <p></p><br></br>
 </div>
 
-<br></br><br></br><br></br><br></br>
-<h2><p><img  src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+<br></br><br></br><br></br><br>
+<h2><img  src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+</p>
+<br>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-<br></br>
-
-<h2><p><img src="gears.gif" width="35" height="42">Still Learning<img src="gears.gif" width="35" height="42"></p></h2>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br></br>
+<h2><img src="gears.gif" width="35" height="42">Still Learning<img src="gears.gif" width="35" height="42"></h2>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<br>
 
 <h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
-<img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg">
-<br></br>
+<img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg"><br>
 
-<h2><img src="bolt.gif" width="20" height="40">   Pinned Repos   <img src="bolt.gif" width="20" height="40"><p></p></h2>
-<p></p>
+<h2><img src="bolt.gif" width="15" height="30">   Pinned Repos   <img src="bolt.gif" width="15" height="30"><p></p></h2>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=EfeVaroll&theme=github_dark&show_owner=true">
 
