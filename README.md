@@ -41,7 +41,7 @@
 <img class="stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=compact&langs_count=8">
 <br></br><br></br><br></br><br></br>
 <div align="center">
-<img class="stats" align="center" src="https://streak-stats.demolab.com?user=EfeVaroll&theme=github-dark-blue&fire=00CE6B"></div>
+<br><img class="stats" align="center" src="https://streak-stats.demolab.com?user=EfeVaroll&theme=github-dark-blue&fire=00CE6B"></div>
 </div>
 
 <br></br>
