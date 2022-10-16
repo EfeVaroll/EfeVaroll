@@ -15,7 +15,9 @@
  <a href="https://dev.to/efevaroll">   
   <img width="90" height="28" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
  <a href="https://stackoverflow.com/users/13841571/efe-varol">   
-  <img width="120" height="25" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> <br></br>
+  <img width="120" height="25" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+ <a href="mailto:efebedelcigil@gmail.com">   
+  <img width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br></br>
 
 <h2><img  src="stack.gif" width="30" height="30">   My Tech Stack   <img src="stack.gif" width="30" height="30"></p></h2>
 
