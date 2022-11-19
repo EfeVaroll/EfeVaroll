@@ -45,7 +45,7 @@
 </div>
 
 <br></br>
-<img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll"> <img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13841571">
+<img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
 
 <br>
 <h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
