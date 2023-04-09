@@ -1,6 +1,6 @@
 <div align="center">
 
- <img align="center" src="banner.gif" >
+ <img align="center" src="banner.gif" width="%100" height="auto">
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;It's+your+friendly+cybersecurity+enthusiast.;Calm+down,+it's+automated.;Just,+scroll+down+for+more+information.;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
