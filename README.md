@@ -24,35 +24,47 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <br></br>
 
 <h2><img src="gears.gif" width="35" height="42">Still Learning<img src="gears.gif" width="35" height="42"></h2>
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><br></br>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">   
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">   
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+
+
+<br></br>
 
 <h2> <p><img src="chart.gif" width="40" height="40">   My Github Stats   <img src="chart.gif" width="40" height="40"></p></h2><br>
 
 <div class="stats" align="center">
 <img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&show_icons=true">
-<img class="stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=compact&langs_count=8">
-<br></br><br></br><br></br><br></br>
+ <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=donut&langs_count=8">
+ </div>
+ <br></br><br></br><br></br>
 <div align="center">
-<br><a class="stats" align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EfeVaroll&theme=transparent&date_format=j%20M%5B%20Y%5D&fire=3DF556&ring=8846EB&currStreakNum=3DF556&hide_total_contributions=true" alt="GitHub Streak" /></div>
+<br>
+ <a class="stats" align="center" width="400" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EfeVaroll&theme=transparent&date_format=j%20M%5B%20Y%5D&fire=3DF556&ring=8846EB&currStreakNum=3DF556&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
+
 
 <br></br>
 <img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
 
-<br>
-<h2><p><img src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
+<br><div>
+<h2><p><img align="center" src="snake.gif" width="30" height="19">   My Contribution Graph   <img src="snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg"><br>
 
 <h2><img src="bolt.gif" width="15" height="30">   Pinned Repos   <img src="bolt.gif" width="15" height="30"><p></p></h2>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=EfeVaroll&theme=github_dark&show_owner=true">
 
+</div>
 </div>
 </div>
