@@ -58,7 +58,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
 
 <br><div>
-<h2><p><img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/snake.gif" width="30" height="19">   My Contribution Graph   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/snake.gif" width="30" height="19"></p></h2>
+<h2><p><img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/snake.gif" width="30" height="19">   My Contribution Graph   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.svg"><br>
 
 <h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/bolt.gif" width="15" height="30">   Pinned Repos   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/bolt.gif" width="15" height="30"><p></p></h2>
