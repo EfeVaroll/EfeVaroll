@@ -4,7 +4,7 @@
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;It's+your+friendly+cybersecurity+enthusiast.;Calm+down,+it's+automated.;Just,+scroll+down+for+more+information.;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
- <p>Hi again! I'm an electrical and electronic engineering student at Ege University and a passionate learner. I love taking part on actions and projects about cyber security and robotics. Trying to be up-to-date, and always willing to help people with modern day solutions. Let's not prolong and start! </p>
+ <p>Hi again! I'm an electrical and electronic engineering student at Ege University and a passionate learner. I love taking part in actions and projects about cyber security and robotics. Trying to be up-to-date, and always willing to help people with modern-day solutions. Let's not prolong and start! </p>
 
 <h2><img src="social.gif" width="40" height="35">Socials<img class="image" src="social.gif" width="40" height="35"></h2>
 
@@ -36,11 +36,11 @@
 <h2> <p><img src="chart.gif" width="40" height="40">   My Github Stats   <img src="chart.gif" width="40" height="40"></p></h2><br>
 
 <div class="stats" align="center">
-<img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&hide=contribs&show_icons=true">
+<img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&show_icons=true">
 <img class="stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=compact&langs_count=8">
 <br></br><br></br><br></br><br></br>
 <div align="center">
-<br><img class="stats" align="center" src="https://streak-stats.demolab.com?user=EfeVaroll&theme=github-dark-blue&fire=00CE6B"></div>
+<br><a class="stats" align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EfeVaroll&theme=transparent&date_format=j%20M%5B%20Y%5D&fire=3DF556&ring=8846EB&currStreakNum=3DF556&hide_total_contributions=true" alt="GitHub Streak" /></div>
 </div>
 
 <br></br>
