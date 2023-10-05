@@ -44,13 +44,7 @@
  <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=donut&langs_count=8">
  </div>
  <br></br><br></br><br></br>
-<div align="center">
-<br>
- <a class="stats" align="center" width="400" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EfeVaroll&theme=transparent&date_format=j%20M%5B%20Y%5D&fire=3DF556&ring=8846EB&currStreakNum=3DF556&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</div>
 
-
-<br></br>
 <img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
 
 <br><div>
