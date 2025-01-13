@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
 <img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<br></br>
+<img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded Systems-green?style=for-the-badge">
 
 
 
