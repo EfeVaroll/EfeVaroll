@@ -4,7 +4,7 @@
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;It's+your+friendly+cybersecurity+enthusiast.;Calm+down,+it's+automated.;Just,+scroll+down+for+more+information.;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
- <p>Hi again! I'm an electrical and electronic engineering student at Ege University and a passionate learner. I love taking part in actions and projects about cyber security and robotics. Trying to be up-to-date, and always willing to help people with modern-day solutions. Let's not prolong and start! </p>
+ <p>Hi again! I'm an electrical and electronic engineering student at Ege University and a passionate learner. I love taking part in actions and projects about embedded and digital systems. Let's not prolong and start! </p>
 
 <h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/social.gif" width="40" height="35">Socials<img class="image" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/social.gif" width="40" height="35"></h2>
 
