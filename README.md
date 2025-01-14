@@ -28,6 +28,9 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br></br>
 
+<img src="https://img.shields.io/badge/PCB Design-purple?style=for-the-badge">
+<br></br>
+
 <h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/gears.gif" width="35" height="42">Still Learning<img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/gears.gif" width="35" height="42"></h2>
 
 <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
