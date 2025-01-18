@@ -61,7 +61,7 @@
 
 <h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/bolt.gif" width="15" height="30">   Pinned Repos   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/bolt.gif" width="15" height="30"><p></p></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=EfeVaroll&theme=github_dark&show_owner=true"><br></br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=EfeVaroll&theme=github_dark&show_owner=true">&emsp
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=assembly-full-adder&theme=github_dark&show_owner=true">
 
 </div>
