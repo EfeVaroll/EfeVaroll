@@ -1,6 +1,6 @@
 <div align="center">
 
- <img align="center" src="images/banner.gif" width="%100" height="auto">
+ <img align="center" src=""https://github.com/EfeVaroll/EfeVaroll/blob/main/images/banner.gif" width="%100" height="auto">
  
  <h1> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;It's+your+friendly+embedded+systems+enthusiast.;Calm+down,+it's+automated.;Just,+scroll+down+for+more+information.;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
@@ -56,7 +56,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
 
 <br><div>
-<h2><p><img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/snake.gif" width="30" height="19">   My Contribution Graph   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.gif" width="30" height="19"></p></h2>
+<h2><p><img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/snake.gif" width="30" height="19">   My Contribution Graph   <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/output/github-contribution-grid-snake.gif"><br>
 
 <h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/bolt.gif" width="15" height="30">   Pinned Repos   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/bolt.gif" width="15" height="30"><p></p></h2>
