@@ -19,11 +19,12 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">   
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">   
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br></br>
 
 <img src="https://img.shields.io/badge/PCB Design-purple?style=for-the-badge">
@@ -43,12 +44,12 @@
 <h2> <p><img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40">   My Github Stats   <img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40"></p></h2><br>
 
 <div class="stats" align="center">
-<img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=EfeVaroll&theme=github_dark&show_icons=true">
- <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeVaroll&theme=github_dark&layout=donut&langs_count=8">
+<img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=nouseus&theme=github_dark&show_icons=true">
+ <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouseus&theme=github_dark&layout=donut&langs_count=8">
  </div>
  <br></br><br></br><br></br>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=EfeVaroll">
+<img align="center" src="https://komarev.com/ghpvc/?username=nouseus">
 <br><div>
 <h2><p><img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/snake.gif" width="30" height="19">   My Contribution Graph   <img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/nouseus/nouseus/blob/output/github-snake-dark.svg"><br>
