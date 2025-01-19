@@ -1,7 +1,7 @@
 <div align="center"><h1>
 
  <img align="center" src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/banner.gif">
- <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;This+page+is+mostly+about:;Embedded+systems+and+electronics.;Calm+down,+it+is+all+automated.;Just,+scroll+down+for+more!;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=5700&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
+ <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;This+page+is+mostly+about:;Embedded+systems+and+electronics.;Calm+down,+it+is+all+automated.;Just,+scroll+down+for+more!;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=2400&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
  <p>Hi again! I'm an electrical and electronic engineering student at Ege University and a passionate learner. I love taking part in actions and projects about embedded and digital systems. Let's not prolong and start! </p>
 
