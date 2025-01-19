@@ -10,10 +10,8 @@
  <a href="https://github.com/EfeVaroll">
   <img width="90" height="28" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   
  <a href="https://www.linkedin.com/in/efevarolbedelcigil/">
-  <img width="100" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <a href="https://stackoverflow.com/users/13841571/efe-varol">   
-  <img width="120" height="25" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
- <a href="mailto:efebedelcigil@gmail.com">   
+  <img width="100" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:efebedelcigil@ieee.com">   
   <img width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br></br>
 
 <h2><img  src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/stack.gif" width="30" height="30">   My Tech Stack   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/mainimages//stack.gif" width="30" height="30"></p></h2>
