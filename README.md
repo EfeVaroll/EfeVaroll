@@ -14,7 +14,7 @@
  <a href="mailto:efebedelcigil@ieee.com">   
   <img width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br></br>
 
-<h2><img  src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/stack.gif" width="30" height="30">   My Tech Stack   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/mainimages//stack.gif" width="30" height="30"></p></h2>
+<h2><img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/stack.gif" width="30" height="30">   My Stack   <img src="https://github.com/EfeVaroll/EfeVaroll/blob/main/images/stack.gif" width="30" height="30"></p></h2>
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
