@@ -37,7 +37,6 @@
 <br></br>
 <img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Embedded Systems-green?style=for-the-badge">
-
 <br></br>
 
 <h2> <p><img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40">   My Github Stats   <img src="https://github.com/nouseus/nouseus/blob/main/images/chart.gif" width="40" height="40"></p></h2><br>
@@ -46,10 +45,10 @@
 <img class="stats" align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=nouseus&theme=github_dark&show_icons=true">
  <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouseus&theme=github_dark&layout=donut&langs_count=8">
  </div>
- <br></br><br></br><br></br>
+ <br></br>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=nouseus">
-<br><div>
+<br>
 <h2><p><img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/snake.gif" width="30" height="19">   My Contribution Graph   <img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/snake.gif" width="30" height="19"></p></h2>
 <img align="center" src="https://github.com/nouseus/nouseus/blob/output/github-snake-dark.svg"><br>
 
@@ -58,6 +57,5 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=single-cycle-computer&theme=github_dark&show_owner=true">&nbsp;&nbsp; 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=assembly-full-adder&theme=github_dark&show_owner=true">
 
-</div>
 </div>
 </div>
