@@ -1,6 +1,5 @@
 <div align="center"><h1>
-
- <img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/banner.gif">
+ <p><img align="center" src="https://github.com/nouseus/nouseus/blob/main/images/banner.gif"></p>
  
  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile,+user!;This+page+is+mostly+about:+Embedded+systems+and+electronics.;Calm+down,+it+is+all+automated.;Just,+scroll+down+for+more!;And+don't+forget+to+follow+me+for+future.+Thanks!&center=true&vCenter=true&duration=2400&size=45&width=2000&heigh=60&ont=Fira+Code+Bold"></h1>
  
