@@ -55,8 +55,8 @@
 
 <h2><img src="https://github.com/nouseus/nouseus/blob/main/images/bolt.gif" width="15" height="30">   Pinned Repos   <img src="https://github.com/nouseus/nouseus/blob/main/images/bolt.gif" width="15" height="30"><p></p></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=single-cycle-computer&theme=github_dark&show_owner=true">&nbsp;&nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeVaroll&repo=assembly-full-adder&theme=github_dark&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nouseus&repo=single-cycle-cpu&theme=github_dark&show_owner=true">&nbsp;&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nouseus&repo=assembly-full-adder&theme=github_dark&show_owner=true">
 
 </div>
 </div>
